@@ -16,3 +16,7 @@
 
 [HTML&CSS课堂笔记.md](./resource/HTML&CSS课堂笔记.md)
 
+[JavaScript基础笔记.md](./resource/JavaScript基础笔记.md)
+
+[JavaScript高级笔记.md](./resource/JavaScript高级笔记.md)
+
