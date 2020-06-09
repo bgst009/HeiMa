@@ -11,3 +11,8 @@
 [JDBC笔记](./resource/JDBC笔记.pdf)
 
 [JDBC连接池&JDBCTemplate课堂笔记.md](./resource/JDBC连接池&JDBCTemplate课堂笔记.md)
+
+[HTML课堂笔记.md](./resource/HTML课堂笔记.md)
+
+[HTML&CSS课堂笔记.md](./resource/HTML&CSS课堂笔记.md)
+
