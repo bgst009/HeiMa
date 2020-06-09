@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/day09_javascript高级/day09_javascript高级.iml" filepath="$PROJECT_DIR$/day09_javascript高级/day09_javascript高级.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10_bootstrap/day10_bootstrap.iml" filepath="$PROJECT_DIR$/day10_bootstrap/day10_bootstrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/day12_xml/day12_xml.iml" filepath="$PROJECT_DIR$/day12_xml/day12_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_servlet/day13_servlet.iml" filepath="$PROJECT_DIR$/day13_servlet/day13_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_tomcat/day13_tomcat.iml" filepath="$PROJECT_DIR$/day13_tomcat/day13_tomcat.iml" />
     </modules>
   </component>
 </project>
