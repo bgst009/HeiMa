@@ -32,3 +32,5 @@
 
 [Cookie&Session笔记.md](./resource/Cookie&Session笔记.md)
 
+[EL&JSTL笔记.md](./resource/EL&JSTL笔记.md)
+
